@@ -1,1 +1,2 @@
 # Home_Sales
+The "Home Sales" project involves analyzing home sales data using PySpark and SparkSQL. The tasks include reading data into a PySpark DataFrame, creating temporary tables, and calculating average home prices based on various factors like bedroom count and home features. The project also focuses on optimizing query performance through caching and partitioning the dataset by "date_built." Finally, the project includes measuring and comparing query runtimes with cached and uncached data.
